@@ -3,7 +3,7 @@ version: '${version}'
 main: io.github.zerthick.autoclass.AutoClass
 api-version: 1.19
 authors: [ Zerthick ]
-description: A simple paper plugin to allow players to select a class given requirements.
+description: A simple paper plugin to allow players to execute a set of commands given requirements.
 website: https://github.com/Zerthick/AutoClass
 commands:
   autoclass:

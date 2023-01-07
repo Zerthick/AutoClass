@@ -9,5 +9,6 @@ groups:
     permission: "autoclass.second"
     requirements:
       expLevel: 30
+      permission: "some.other.permission"
     commands:
       - "say hello %p in %w, you have 30 exp!"
