@@ -1,0 +1,11 @@
+name: AutoClass
+version: '${version}'
+main: io.github.zerthick.autoclass.AutoClass
+api-version: 1.19
+authors: [ Zerthick ]
+description: A simple paper plugin to allow players to select a class given requirements.
+website: https://github.com/Zerthick/AutoClass
+commands:
+  autoclass:
+    description: "Autoclass root command"
+    permission: "autoclass.commands.autoclass"

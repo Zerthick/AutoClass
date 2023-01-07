@@ -1,0 +1,13 @@
+groups:
+  First:
+    description: "The first group"
+    permission: "autoclass.first"
+    commands:
+      - "say hello %p in %w!"
+  Second:
+    description: "The second group"
+    permission: "autoclass.second"
+    requirements:
+      expLevel: 30
+    commands:
+      - "say hello %p in %w, you have 30 exp!"
