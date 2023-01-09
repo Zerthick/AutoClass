@@ -1,4 +1,4 @@
-# SuperUser
+# AutoClass
 
 A simple paper plugin to allow players to execute a set of commands given requirements.
 
@@ -26,9 +26,9 @@ groups:
 
 ## Plugin permissions
 
-* `superuser.commands.autoclass` - Allows a player to use the `/autoclass` command to access basic functionality
-* `superuser.commands.choose` - Allows a player to use the `/autoclass choose <group_name>` command to select a group
-* `superuser.commands.info` - Allows a player to user the `/autoclass info <group_name` command to view the info of a
+* `autoclass.commands.autoclass` - Allows a player to use the `/autoclass` command to access basic functionality
+* `autoclass.commands.choose` - Allows a player to use the `/autoclass choose <group_name>` command to select a group
+* `autoclass.commands.info` - Allows a player to user the `/autoclass info <group_name` command to view the info of a
   specific group
 
 ## Support Me
